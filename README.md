@@ -1,1 +1,1 @@
-# Study-pdf-app
+# Studypdf.app
